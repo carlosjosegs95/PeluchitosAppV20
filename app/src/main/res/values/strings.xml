@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PeluchitosApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingresar">Ingrese los datos del peluche</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="buscar">Buscar peluche</string>
+    <string name="buscoPeluche">Nombre del peluche</string>
+    <string name="busco">Buscar</string>
+    <string name="bienvenidos">¡ Bienvenidos !</string>
+    <string name="texto">PeluchitosApp es una aplicación que te ayuda a llevar el inventario de los peluches que vayas registrando. Es sencilla pero bastante práctica. ¡ Vamos a explorarla !</string>
+    <string name="elimino">Eliminar</string>
+    <string name="correo">peluchitosapp@udea.edu.co</string>
+</resources>
